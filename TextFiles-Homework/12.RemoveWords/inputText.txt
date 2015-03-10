@@ -1,0 +1,10 @@
+﻿Problem 1 – De-cat-coding
+At long last scientist are found out that the cats have an evil plan to 
+
+enslave all of humanity. The sinister organization Al cat-qaeda have 
+been targeting high profile programmers and taking them down (a.k.a 
+brutally murdering them), because they are the only ones that can ruin 
+their plans. “But why programmers?” you would ask, because they are 
+the only ones that can write a program to crack their communication 
+codes. They are using a 21-based numeral system in order to fool everyone 
+that they are stupid and harmless beings. The digits go as following:

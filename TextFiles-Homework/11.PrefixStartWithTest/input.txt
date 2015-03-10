@@ -1,0 +1,7 @@
+﻿Write a testprogram that reads a list of testQwor5ds from the file words.
+txt and finds how testmany times each of the words is 
+contained in another file test.txt.
+The result should be written in the file 
+result.txt and the words should be sorted by 
+the number of their testoccurrences in descending order.
+Handle all possible test_nAsK0 exceptions in your methods.

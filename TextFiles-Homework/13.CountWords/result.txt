@@ -1,0 +1,5 @@
+are: 5
+because: 2
+cat: 2
+cats: 1
+programmers: 1
